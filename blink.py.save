@@ -1,0 +1,9 @@
+#!/usr/lib/python
+import time
+import wiringPi
+gpio mode 12 out
+while True:
+	gpio write 12 1
+	time.sleep(0.5)
+	gpio write 0
+	time.sleep(0.5)

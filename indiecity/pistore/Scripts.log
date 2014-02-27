@@ -1,0 +1,6 @@
+### /usr/bin/pistore - Thu Jan  9 17:48:10 EET 2014 ###
+OSGROUPS=pi adm dialout cdrom sudo audio video plugdev games users netdev input spi gpio
+Added indiecity group.
+USERTOADD=pi
+### /usr/bin/pistore - Thu Jan  9 17:48:55 EET 2014 ###
+### /usr/bin/pistore - Thu Jan  9 17:49:41 EET 2014 ###
